@@ -18,7 +18,7 @@
   - [tribology 1차 실험](https://github.com/yuumiin/AI_project/blob/main/data_preprocessing2.py) 
   - [tribology 2차 실험](https://github.com/yuumiin/AI_project/blob/main/tribology2_preprocessing.py)
   - [sliding 실험](https://github.com/yuumiin/AI_project/blob/main/sliding_preprocessing.py)
-  - [최종 데이터 전처리 code](https://github.com/yuumiin/AI_project/blob/main/pre.ipynb)
+  - [최종 데이터 전처리 code](https://github.com/yuumiin/AI_project/blob/main/preprocessing.py)
 - 딥러닝 code
   -  [ResNet](https://github.com/yuumiin/AI_project/blob/main/ResNet.ipynb)
 
