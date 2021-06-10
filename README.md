@@ -19,6 +19,10 @@
   - [tribology 2차 실험](https://github.com/yuumiin/AI_project/blob/main/tribology2_preprocessing.py)
   - [sliding 실험](https://github.com/yuumiin/AI_project/blob/main/sliding_preprocessing.py)
   - [최종 데이터 전처리 code](https://github.com/yuumiin/AI_project/blob/main/preprocessing.py)
+- 데이터 분석 code
+  - [force 값 중 가장 큰 값 추출](https://github.com/yuumiin/AI_project/blob/main/max_value.py)   
+  - [최대정지마찰력까지의 시간](https://github.com/yuumiin/AI_project/blob/main/increasing_time.py)
+  - [Fast Fourier Transform] (https://github.com/yuumiin/AI_project/blob/main/fft.py)
 - 딥러닝 code
   -  [ResNet](https://github.com/yuumiin/AI_project/blob/main/ResNet.ipynb)
 
