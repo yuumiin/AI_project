@@ -44,7 +44,6 @@ def read_data(path, file_name) :
     glob_file = natsorted(glob_file)
 
     for i, v in enumerate(glob_file) :
-        plt.clf()
         if "01of" in v:
             continue
         print(i, v)
@@ -55,7 +54,6 @@ def read_data(path, file_name) :
         df = np.insert(df, 0, values[:,4], axis=1) # vcload(N) 
 
         df = df[1000:2000,:1]
-        # plt.plot(df)
         np.savetxt(str(i) + '.csv', df, delimiter=", ", fmt='%s')
         
 # load and merge sample data of all_cycle
