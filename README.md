@@ -6,7 +6,7 @@
  
  ### - DeepLearning Algorithm
   - `CNN`
-    - 화장품의 발림성을 구분하기 위한 이미지 분류에 사용
+    - 발림성 실험 후 표면에 남은 화장품의 분포를 구분하기 위해 사용
   - `ResNet`
     - 발림성 실험의 시계열데이터 분류에 사용
     
@@ -26,7 +26,7 @@
   -  [ResNet](https://github.com/yuumiin/AI_project/blob/main/ResNet.ipynb)
 
 ### 2. 히스토그램 이미지 분류
-- 발림성 실험이 끝난 후 남은 양을 촬영 후 영상을 히스토그램으로 나타내어 이미지 분류
+- 발림성 실험이 끝난 후 남은 양을 촬영 후 영상을 프레임별로 히스토그램으로 변화하여 이미지 분류
 - 이미지 전처리 code
   - [히스토그램 변환과 저장](https://github.com/yuumiin/AI_project/blob/main/preprocessing_hist.py)
 - 딥러닝 code ( 진행중 )
