@@ -29,5 +29,5 @@
 - 발림성 실험이 끝난 후 남은 양을 촬영 후 영상을 프레임별로 히스토그램으로 변화하여 이미지 분류
 - 이미지 전처리 code
   - [히스토그램 변환과 저장](https://github.com/yuumiin/AI_project/blob/main/preprocessing_hist.py)
-- 딥러닝 code ( 진행중 )
+- 딥러닝 code
   -  [CNN](https://github.com/yuumiin/AI_project/blob/main/torch_model_CNN.ipynb)
