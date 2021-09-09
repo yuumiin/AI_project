@@ -6,7 +6,7 @@
  
  ### - DeepLearning Algorithm
   - `CNN`
-    - 발림성 실험 후 표면에 남은 화장품의 분포를 사용해 화장품을 분류하는 데에 사용
+    - 발림성 실험 후 표면에 남은 화장품의 분포를 활용해 화장품을 분류하는 데에 사용
   - `ResNet`
     - 발림성 실험의 시계열데이터 분류에 사용
     
@@ -31,3 +31,9 @@
   - [히스토그램 변환과 저장](https://github.com/yuumiin/AI_project/blob/main/preprocessing_hist.py)
 - 딥러닝 code
   -  [CNN](https://github.com/yuumiin/AI_project/blob/main/torch_model_CNN.ipynb)
+  ---
+### 프로젝트 결과
+- 예측 결과 표
+<img src="https://user-images.githubusercontent.com/68880847/132706446-fb54d420-ac61-48c7-a7a2-0be59ecd8320.png" width="40%"> 
+- 학습 결과
+<img src="https://user-images.githubusercontent.com/68880847/132706460-0cf96978-f4f2-461a-8620-a6765a5c4fea.png" width="40%">
