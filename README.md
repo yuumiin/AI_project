@@ -34,6 +34,6 @@
   ---
 ### 프로젝트 결과
 - 예측 결과 표
-<img src="https://user-images.githubusercontent.com/68880847/132706446-fb54d420-ac61-48c7-a7a2-0be59ecd8320.png" width="40%"> 
+<img src="https://user-images.githubusercontent.com/68880847/132706446-fb54d420-ac61-48c7-a7a2-0be59ecd8320.png" width="30%"> 
 - 학습 결과
 <img src="https://user-images.githubusercontent.com/68880847/132706460-0cf96978-f4f2-461a-8620-a6765a5c4fea.png" width="40%">
