@@ -8,11 +8,12 @@
   - `CNN`
     - 발림성 실험 후 표면에 남은 화장품의 분포를 활용해 화장품을 분류하는 데에 사용
     - 모델 구조
+    
       <img src="https://user-images.githubusercontent.com/68880847/132720120-15d737af-3411-4706-8a96-2421d814c022.png" width="75%">
   - `ResNet`
     - 발림성 실험의 시계열데이터 분류에 사용
     - 모델 구조
-    - 
+    
       <img src="https://user-images.githubusercontent.com/68880847/132720131-0bfe4b3a-b4d5-4bcb-837e-1c0fa73d5cfd.png" width="70%">
     
  ---
@@ -42,7 +43,3 @@
 <img src="https://user-images.githubusercontent.com/68880847/132706446-fb54d420-ac61-48c7-a7a2-0be59ecd8320.png" width="30%"> 
 - 학습 결과
 <img src="https://user-images.githubusercontent.com/68880847/132706460-0cf96978-f4f2-461a-8620-a6765a5c4fea.png" width="40%">
-
-
-<!-- ![히스토그램 cnn 모델 구조](https://user-images.githubusercontent.com/68880847/132720120-15d737af-3411-4706-8a96-2421d814c022.png) -->
-<!-- ![resnet모델](https://user-images.githubusercontent.com/68880847/132720131-0bfe4b3a-b4d5-4bcb-837e-1c0fa73d5cfd.png) -->
